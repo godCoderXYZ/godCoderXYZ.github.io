@@ -1,6 +1,6 @@
 # godCoderXYZ.github.io
 Hi Members of the Website and Application Development Branch! This is a file in a repository called, "godCoderXYZ.github.io" (ignore the name), containing four files:
-- main.html
+- index.html
 - script.js
 - style.css
 - and README.md
